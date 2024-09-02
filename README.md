@@ -4,8 +4,8 @@
 _*hold*_
 __hola__
 <ins>Hola
-## lista
-- a
-- b
-- c
-- d
+## Steps to compile the project 
+- Download the jar
+- Open the terminal on the folder where the jar is downloaded
+- Run the following commands 
+- ahorita sigo
