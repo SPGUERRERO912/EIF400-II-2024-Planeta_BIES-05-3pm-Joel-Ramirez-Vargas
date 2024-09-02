@@ -3,14 +3,23 @@
 ## Overview
 This project provides a formal solution to the BIES exercise using design patterns. Specifically, it leverages the Template Method and Abstract Factory patterns to deliver a structured and flexible implementation.
 
-## Steps to build and run the project 
-- Download the jar
-- Open the terminal on the folder where the jar is downloaded
-- Run the following commands 
-  1. mvn compile 
-  2. mvn test
-  3. mvn javadoc:javadoc
-  4. mvn package
-  5. mvn deploy
-  6. mvn clean install
-  7. java -jar planeta_bies-05-03pm-1.3.1.jar
+## Getting started 
+To get started with the project, you need to have the following prerequisites installed on your system:
+- Java Development Kit (JDK) 22
+- Apache Maven 3.6.3 or higher
+
+## Steps to build the project 
+1. Download the JAR file to your local machine.
+2. Open a terminal and navigate to the directory where the JAR file is located.
+3. Run the following Maven commands to compile, test, generate documentation, package, deploy, and install the project:
+   
+- mvn compile 
+- mvn test
+- mvn javadoc:javadoc
+- mvn package
+- mvn deploy
+- mvn clean install
+  
+## To build the project
+Use the following command 
+- java -jar planeta_bies-05-03pm-1.3.1.jar
